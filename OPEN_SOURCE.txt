@@ -1,0 +1,9 @@
+The project contains SumatraPDF.exe, an open source PDF reader. This software is used for silent printing on Windows only.
+
+Details of the project can be found at: https://www.sumatrapdfreader.org/free-pdf-reader
+The source code of the project can be found at: https://github.com/sumatrapdfreader/sumatrapdf
+
+While the source code for this PDF software is not modified the executable is embedded as part of this application then writen back out as a standalone executable during the installation to be called via the shell.
+To comply with the SumatraPDF license this software is also distributed under AGPLv3.
+
+The source code for this application is available via GitHub: https://github.com/i-fulfilment/CompanionApp
